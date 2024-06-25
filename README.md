@@ -1,104 +1,84 @@
-# Konichiwa 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-
-</br>
-</br>
-</br>
 
 
-# About ME 💬 :
+<h1 align="center">Hi 👋, I'm Robith Yusuf Al Fahsa</h1>
+<h3 align="center">I'm 16 years  old Backend Developer & Networking Enthusiast from Indonesian.</h3>
 
-### - I'm 16 years  old Web Development & Backend Developer & Networking Enthusiast from Indonesian.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Finzydev&label=Profile%20views&color=0e75b6&style=flat" alt="Finzydev" /> </p>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<p align="left"> <a href="https://instagram.com/Finzydev" target="blank"><img src="https://img.shields.io/twitter/follow/robith_ya?logo=twitter&style=for-the-badge" alt="robith_ya" /></a> </p>
 
-### - Learning :
-- ✨ Programming language like Javascript, PHP, Python.
-- ✨ Nodejs, Laravel, and React.js
+- 🔭 I am currently still studying at vocational school majoring in Computer Network Engineering
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Futsal
+- 🌱 I'm currently learning **JavaScript, MERN Stack, WAN Concept**
 
-</br>
-</br>
-</br>
+- 💬 Ask me about **JavaScript, MySQL, WhatsApp Bot, and Networking**
 
+- 📫 How to reach me **fanzakbar10@gmail.com**
 
+- 📄 Know about my experiences [https://github.com.Finzydev/](https://github.com/Finzydev/)
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/
+affan-akbarulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robithyusuf/" height="30" width="40" /></a>
+<a href="https://instagram.com/Finzydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robith_ya" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-logo-DA8B60CAD7-seeklogo.com.png" alt="@robith_ya" height="30" width="30" /></a>
 </p>
-</br>
-</br>
-</br>
 
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:fanzakbar10@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+</p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+## 🏆 Achievements
+
+- CCNA (Ongoing)
+
+## 📊 GitHub Stats 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Finzydev&show_icons=true&locale=en&layout=compact" alt="nababur" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Finzydev&show_icons=true&locale=en" alt="nababur" /></p>
+
+## 💡 Fun Fact
+
+I like playing moba games like Mobile Legends and Honor of Kings. I don't like bananas.. :/
+
+## 📧 Get in Touch
+
+I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
+
+---
 
 
-
-<p align="center" >  
-  <a href="https://github.com/Finzydev"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Finzydev&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+[![](https://visitcount.itsvg.in/api?id=Finzydev&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
