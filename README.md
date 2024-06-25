@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Robith Yusuf Al Fahsa</h1>
+<h1 align="center">Hi 👋, I'm Affan Akbarulloh</h1>
 <h3 align="center">I'm 16 years  old Backend Developer & Networking Enthusiast from Indonesian.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Finzydev&label=Profile%20views&color=0e75b6&style=flat" alt="Finzydev" /> </p>
 
-<p align="left"> <a href="https://instagram.com/Finzydev" target="blank"><img src="https://img.shields.io/twitter/follow/robith_ya?logo=twitter&style=for-the-badge" alt="robith_ya" /></a> </p>
+<p align="left"> <a href="https://instagram.com/Finzydev" target="blank"><img src="https://img.shields.io/twitter/follow/robith_ya?logo=twitter&style=for-the-badge" alt="finzsaturnn" /></a> </p>
 
 - 🔭 I am currently still studying at vocational school majoring in Computer Network Engineering
 
